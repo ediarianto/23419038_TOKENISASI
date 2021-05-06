@@ -1,8 +1,9 @@
-# 23419038_TOKENISASI
-Membuat Tokenisasi sederhana menggunakan HTML and JavaScript.
+# 23419035_tokenization
+Simple Tokenization in HTML and JavaScript.
 
 # UTS Teori Bahasa Formal dan Otomata
-Nama : Edi Arianto
-NIM : 23419038
-Prodi : Teknik Informatika
-Angkatan : 2019 Malam
+
+Nama      : Moch. Nafi'ul Irsad Al A.</br>
+NIM       : 23419035</br>
+Prodi     : Teknik Informatika</br>
+Angkatan  : 2019 Pagi</br>
